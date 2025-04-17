@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The time taken by a body to complete one complete oscillation in simple harmonic motion,is called its...",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Time period",
+        "b": "Amplitude",
+        "c": "Frequency",
+        "d": "Velocity"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,29 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In simple harmonic motion, the maximum displacement of a body from its mean position is called...",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Time period",
+        "b": "Amplitude",
+        "c": "Frequency",
+        "d": "Velocity"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The total number of complete oscillations per unit time in SHM is called..",
+      "answers": {
+        "a": "Time period",
+        "b": "Amplitude",
+        "c": "Frequency",
+        "d": "Velocity"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +50,23 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which among the following is an application of torsional oscillation?",
+      "answers": {
+        "a": "Pendulum clock",
+        "b": "Digital clock",
+        "c": "Stop watch",
+        "d": "All the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
