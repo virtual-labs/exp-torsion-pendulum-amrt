@@ -2,10 +2,10 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The moment of inertia of a disc of mass M and radius R,about an axis passing through its center and perpendicular to the plane of the disc is?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
+        "a": "(1/2)MR^2",
+        "b": "MR<sup>2</sup>",
         "c": "answer3",
         "d": "answer4"
       },
