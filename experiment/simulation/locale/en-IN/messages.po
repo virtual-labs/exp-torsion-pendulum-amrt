@@ -67,7 +67,7 @@ msgstr "Close"
 
 #: view.js:129
 msgid "Moment of Inertia of a Torsion Pendulum"
-msgstr "Rigidity Modulus of The Suspension Wire of A Torsion Pendulum"
+msgstr "Moment of Inertia of a Torsion Pendulum"
 
 #: view.js:130
 msgid "Variables"

@@ -62,7 +62,7 @@ msgid "Close"
 msgstr "बंद करे"
 
 #: view.js:129
-msgid "Rigidity Modulus of The Suspension Wire of A Torsion Pendulum"
+msgid "Moment of Inertia of a Torsion Pendulum"
 msgstr "मोटाई पेंडुलम की जड़ का क्षण"
 
 #: view.js:130
