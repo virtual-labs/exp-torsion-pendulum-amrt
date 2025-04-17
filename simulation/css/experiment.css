@@ -1,0 +1,10 @@
+#graphDiv {
+  display: inline-block;
+  width: 100%;
+  position: absolute;
+  background:red;
+}
+#site-sidenav{
+  display: none;
+  overflow-x: hidden; 
+}
