@@ -1,1 +1,1 @@
-## Experiment name
+## Torsion Pendulum
