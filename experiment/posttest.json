@@ -54,12 +54,6 @@
         "c": "Length, radius of wire, and time period of oscillation",
         "d": "Amplitude and damping coefficient"
       },
-      "explanations": {
-        "a": "Not sufficient; angular velocity is not used in the final expression.",
-        "b": "Angular displacement is not included in rigidity modulus calculation.",
-        "c": "Correct! These are the measurable quantities used in the formula. <a href='https://www.toppr.com/guides/physics/oscillations/torsional-pendulum/'>Reference</a>",
-        "d": "These are related to damped oscillations, not rigidity modulus."
-      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
