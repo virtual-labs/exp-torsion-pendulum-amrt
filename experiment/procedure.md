@@ -1,6 +1,6 @@
 ## Procedure
 ### Apparatus
-The given torsion pendulum, two identical cyllindrical masses, stop watch, metre scale.
+Torsion pendulum, two identical cyllindrical masses, stop watch, metre scale.
 
 ### PART 1: Determination of Rigidity modulus using Torsion pendulum alone
 <ol>
@@ -11,6 +11,9 @@ The given torsion pendulum, two identical cyllindrical masses, stop watch, metre
 <li>Determine the rigidity modulus from the given mathematical expression.</li>
 </ol>
 
+Part 1 Table
+![tors](https://github.com/user-attachments/assets/be98b1f9-67d4-440c-b602-aa37e3b64f66)
+
 ### PART 2:  Determination of rigidity modulus and moment of inertia using torsion pendulum with identical masses
 <ol>
 <li>The radius of the suspension wire is measured using a screw gauge.</li>
@@ -20,7 +23,7 @@ The given torsion pendulum, two identical cyllindrical masses, stop watch, metre
 <li>Find the time for 20 oscillations twice and determine the mean period of oscillation 'T<sub>1</sub>'.</li>
 <li>The two identical masses are placed symmetrically on either side of the suspension wire as far as possible to the centre of the disc, and measure d<sub>2</sub> which is the distance between the centres of the disc and one of the identical masses.</li>
 <li>Find the time for 20 oscillations twice and determine the mean period of oscillation ' T<sub>2</sub>'.</li>
-<li>Find the moment of inertia of the disc and rigidity modulus of the suspension wire using the given formulae.</li>
+<li>Find the moment of inertia of the disc and rigidity modulus of the suspension wire using the given formulae (eq 11).</li>
 </ol>
 
 **Note: For the same variables of length,mass, etc. the data from part 1 can be used for the Part 2 procedure.**
@@ -37,8 +40,7 @@ d1=...........m
 
 d2=...........m
 
-Part 1 Table
-![tors](https://github.com/user-attachments/assets/be98b1f9-67d4-440c-b602-aa37e3b64f66)
+
 
 
 Part 2 Table
