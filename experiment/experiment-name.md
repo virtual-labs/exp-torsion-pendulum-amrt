@@ -1,1 +1,1 @@
-## Rigidity Modulus of The Suspension Wire of A Torsion Pendulum
+## Rigidity Modulus of the Suspension Wire of a Torsion Pendulum
