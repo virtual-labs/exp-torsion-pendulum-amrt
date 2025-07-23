@@ -1,10 +1,11 @@
 ## Introduction
 
 
-<b>Discipline | <b>Physical Sciences
+
+<b>Discipline | <b> Physical Sciences
 :--|:--|
 <b> Lab | <b> Advanced Mechanics Virtual Lab
-<b> Experiment|     <b> Rigidity Modulus of The Suspension Wire of A Torsion Pendulum
+<b> Experiment|     <b> 	Rigidity Modulus of The Suspension Wire of A Torsion Pendulum
 
 ### About the Experiment 
 
@@ -14,6 +15,7 @@ An experiment to find out the rigidity modulus of the suspension wire of a torsi
 :--|:--|
 <b> Institute | <b>  Amrita Vishwa Vidyapeetham
 <b> Email id|     <b>  virtual_labs@am.amrita.edu
+
 <b> Department |  
 
 ### Contributors List
