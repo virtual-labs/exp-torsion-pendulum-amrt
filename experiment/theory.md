@@ -1,3 +1,4 @@
+
 ## Theory
 #### What is Torsional Oscillation?
 A body suspended by a thread or wire which twists first in one direction and then in the reverse direction, in the horizontal plane is called a torsional pendulum.The first torsion pendulum was developed by Robert Leslie in 1793.
@@ -8,46 +9,55 @@ A simple schematic representation of a torsion pendulum is given below,
 
 The period of oscillation of torsion pendulum is given as,
 
-![showimage](https://github.com/user-attachments/assets/16e45470-c4b1-486d-869f-d324a969ca5a)
+$$T=2\pi \sqrt{\frac{I}{C}}.........(1)$$
 
 Where   I=moment of inertia of the suspended body; C=couple/unit twist 
 But we have an expression for  couple per unit twist C as,
 
-![showimage](https://github.com/user-attachments/assets/6b57c666-067c-4826-b563-13945aa51618)
+$$C=\frac{1}{2}\frac{\pi nr^4}{l}.............(2)$$
 
 Where   l =length of the suspension wire; r=radius of the wire; n=rigidity modulus of  the suspension wire
 
 Substituting (2) in (1) and squaring,we get an expression for rigidity modulus for the suspension wire as,
 
-![showimage](https://github.com/user-attachments/assets/b43eaeef-76b9-4aa9-be90-0ce759544233)
+$$n=\frac{8\pi Il}{r^4T^2}...............(3)
 
 We can use the above formula directly if we calculate the moment of inertia of the disc,I as (1/2)MR<sup>2</sup>.
 
 Now,let I0  be the moment of inertia of the disc alone and I1 & I2 be the moment of inertia of the disc with identical masses at distances d1&d2 respectively.If  I1 is the moment of inertia of each identical mass about the vertical axis passing through its centre of gravity, then
 
+$$I_1 = I_0 + 2I^1 + 2md_1^2.........(4)$$
+$$I_2 = I_0 + 2I^1 + 2md_2^2.........(5)$$
+$$I_2 - I_1 = 2m(d_2^2 - d_1^2)......(6)$$
 
 
-![showimage](https://github.com/user-attachments/assets/fccfd75d-774e-4a9e-af46-199f2608574c)
 
 But from equation (1)<br>
 
-![showimage](https://github.com/user-attachments/assets/d355185f-e0ac-4032-828d-94962ce74a00)
+$$T_0^2 = 4\pi^2 \frac{I_0}{C} \quad \text{........... (7)}$$
+$$T_1^2 = 4\pi^2 \frac{I_1}{C} \quad \text{........... (8)}$$
+$$T_2^2 = 4\pi^2 \frac{I_2}{C} \quad \text{........... (9)}$$
+$$T_2^2 - T_1^2 = \frac{4\pi^2}{C}(I_2 - I_1) \quad \text{........... (10)}$$
+
 
 
 
 Where T<sub>0</sub>,T<sub>1</sub>,T<sub>2</sub> are the periods of torsional oscillation without identical mass,with identical pass at position d<sub>1</sub>,d<sub>2</sub> respectively.
 
-Dividing equation (6) by (9) and using (5),
+Dividing equation (7) by (10) and using (6),
 
-![showimage](https://github.com/user-attachments/assets/77b342df-38ce-4b52-8492-7891181cbbef)
+$$\frac{T_0^2}{(T_2^2 - T_1^2)} = \frac{I_0}{(I_2 - I_1)} = \frac{I_0}{2m(d_2^2 - d_1^2)} \quad \text{........... (11)}$$
+
 
 Therefore,The moment of inertia of the disc,
 
-![showimage](https://github.com/user-attachments/assets/38aae513-5c8b-4c1a-a80a-9dc2389d4a48)
+$$I_0 = 2m(d_2^2 - d_1^2) \cdot \frac{T_0^2}{(T_2^2 - T_1^2)} \quad \text{........... (12)}$$
 
-Now substituting equation (2) and (5) in (9),we get the expression for rigidity modulus 'n' as,
 
-![showimage](https://github.com/user-attachments/assets/e81d4750-57fb-4fa0-aa12-8be19a9544e5)
+Now substituting equation (2) and (6) in (10),we get the expression for rigidity modulus 'n' as,
+
+$$n = \frac{16\pi m (d_2^2 - d_1^2)}{r^4} \left( \frac{l}{T_2^2 - T_1^2} \right) \quad \text{........... (13)}$$
+
 
 
 ## Applications of Torsional Pendulum:

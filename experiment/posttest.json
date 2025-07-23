@@ -9,28 +9,56 @@
         "c": "(1/3)MR<sup>2</sup>",
         "d": "(3/4)MR<sup>2</sup>"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
+  {
+      "question": "The rigidity modulus of a material is defined as the ratio of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Stress to strain",
+        "b": "Shear stress to shear strain",
+        "c": "Bulk stress to bulk strain",
+        "d": "Tensile stress to tensile strain"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Stress to strain defines Young's modulus.",
+        "b": "Correct! Rigidity modulus is the ratio of shear stress to shear strain. <a href='https://en.wikipedia.org/wiki/Shear_modulus'>Read more</a>",
+        "c": "This defines bulk modulus, not rigidity modulus.",
+        "d": "Tensile stress to tensile strain defines Young's modulus."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In the torsional pendulum experiment, increasing the radius of the suspension wire will",
+      "answers": {
+        "a": "Increase the time period",
+        "b": "Decrease the rigidity modulus",
+        "c": "Increase the torsional constant",
+        "d": "Have no effect on the result"
+      },
+      "explanations": {
+        "a": "The radius affects the torsional constant, not directly the time period.",
+        "b": "Rigidity modulus is a material property and not affected by geometry.",
+        "c": "Correct! Torsional constant is proportional to the fourth power of the radius. <a href='https://en.wikipedia.org/wiki/Torsion_spring'>See formula</a>",
+        "d": "Radius has a significant effect on torsional constant."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The expression for the rigidity modulus n derived from the torsional pendulum experiment involves which of the following quantities?",
+      "answers": {
+        "a": "Moment of inertia and angular velocity",
+        "b": "Mass of disc and angular displacement",
+        "c": "Length, radius of wire, and time period of oscillation",
+        "d": "Amplitude and damping coefficient"
+      },
+      "explanations": {
+        "a": "Not sufficient; angular velocity is not used in the final expression.",
+        "b": "Angular displacement is not included in rigidity modulus calculation.",
+        "c": "Correct! These are the measurable quantities used in the formula. <a href='https://www.toppr.com/guides/physics/oscillations/torsional-pendulum/'>Reference</a>",
+        "d": "These are related to damped oscillations, not rigidity modulus."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
