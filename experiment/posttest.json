@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The moment of inertia of a disc of mass M and radius R,about an axis passing through its center and perpendicular to the plane of the disc is?",
+      "question": "1) The moment of inertia of a disc of mass M and radius R,about an axis passing through its center and perpendicular to the plane of the disc is?",
       "answers": {
         "a": "(1/2)MR<sup>2</sup>",
         "b": "MR<sup>2</sup>",
@@ -13,7 +13,7 @@
       "difficulty": "beginner"
     },
   {
-      "question": "The rigidity modulus of a material is defined as the ratio of",
+      "question": "2) The rigidity modulus of a material is defined as the ratio of",
       "answers": {
         "a": "Stress to strain",
         "b": "Shear stress to shear strain",
@@ -30,7 +30,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "In the torsional pendulum experiment, increasing the radius of the suspension wire will",
+      "question": "3) In the torsional pendulum experiment, increasing the radius of the suspension wire will",
       "answers": {
         "a": "Increase the time period",
         "b": "Decrease the rigidity modulus",
@@ -47,7 +47,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "The expression for the rigidity modulus n derived from the torsional pendulum experiment involves which of the following quantities?",
+      "question": "4) The expression for the rigidity modulus n derived from the torsional pendulum experiment involves which of the following quantities?",
       "answers": {
         "a": "Moment of inertia and angular velocity",
         "b": "Mass of disc and angular displacement",
@@ -62,6 +62,23 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "5) What is the formula used to calculate the rigidity modulus 'n' of the suspension wire in a torsion pendulum experiment when using two identical masses at different distances?",
+      "answers": {
+        "a": " $n = (8πIl) / (r^4 T^2)$",
+        "b": " $n = (16πm(d2^2 - d1^2)) / (r^4 (T2^2 - T1^2))$",
+        "c": " $n = (1/2)πnr^4 / l$",
+        "d": " $n = (2πI) / (C T^2)$"
+      },
+      "explanations": {
+        "a": "This is the formula for rigidity modulus when moment of inertia and period are directly used, not specific to identical masses at different distances.",
+        "b": "This is the correct formula derived for the rigidity modulus using two identical masses at distances d1 and d2, as per equation (13) in the theory.",
+        "c": "This is the formula for couple per unit twist (C), not the rigidity modulus.",
+        "d": "This is an incorrect rearrangement of the torsion pendulum formula."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
     }
   ]
 }
