@@ -50,7 +50,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5) In a torsion pendulum experiment, how is the moment of inertia of the disc (I0) determined using identical masses placed at distances $d_1$ and $d_2$?",
+      "question": "5) In a torsion pendulum experiment, how is the moment of inertia of the disc ( $I_0$) determined using identical masses placed at distances $d_1$ and $d_2$?",
       "answers": {
         "a": " $I_0 = (1/2)MR^2$",
         "b": " $I_0 = 2m(d2^2 - d1^2) * T0^2 / (T2^2 - T1^2)$",
