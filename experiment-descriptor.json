@@ -44,13 +44,6 @@
       "additional-sources": []
     },
     {
-      "target": "posttest.html",
-      "source": "posttest.json",
-      "label": "Posttest",
-      "unit-type": "task",
-      "content-type": "assesment"
-    },
-    {
       "target": "assignment.html",
       "source": "assignment.md",
       "label": "Assignment",
