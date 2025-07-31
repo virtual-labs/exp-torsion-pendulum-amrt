@@ -87,7 +87,7 @@
       "difficulty": "intermediate"
     },
      {
-      "question": "1) The moment of inertia of a disc of mass M and radius R,about an axis passing through its center and perpendicular to the plane of the disc is?",
+      "question": "6) The moment of inertia of a disc of mass M and radius R,about an axis passing through its center and perpendicular to the plane of the disc is?",
       "answers": {
         "a": "(1/2)MR<sup>2</sup>",
         "b": "MR<sup>2</sup>",
@@ -98,7 +98,7 @@
       "difficulty": "beginner"
     },
   {
-      "question": "2) The rigidity modulus of a material is defined as the ratio of",
+      "question": "7) The rigidity modulus of a material is defined as the ratio of",
       "answers": {
         "a": "Stress to strain",
         "b": "Shear stress to shear strain",
@@ -115,7 +115,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3) In the torsional pendulum experiment, increasing the radius of the suspension wire will",
+      "question": "8) In the torsional pendulum experiment, increasing the radius of the suspension wire will",
       "answers": {
         "a": "Increase the time period",
         "b": "Decrease the rigidity modulus",
@@ -132,7 +132,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "4) The expression for the rigidity modulus n derived from the torsional pendulum experiment involves which of the following quantities?",
+      "question": "9) The expression for the rigidity modulus n derived from the torsional pendulum experiment involves which of the following quantities?",
       "answers": {
         "a": "Moment of inertia and angular velocity",
         "b": "Mass of disc and angular displacement",
@@ -149,7 +149,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5) What is the formula used to calculate the rigidity modulus 'n' of the suspension wire in a torsion pendulum experiment when using two identical masses at different distances?",
+      "question": "10) What is the formula used to calculate the rigidity modulus 'n' of the suspension wire in a torsion pendulum experiment when using two identical masses at different distances?",
       "answers": {
         "a": " $n = (8πIl) / (r^4 T^2)$",
         "b": " $n = (16πm(d2^2 - d1^2)) / (r^4 (T2^2 - T1^2))$",
