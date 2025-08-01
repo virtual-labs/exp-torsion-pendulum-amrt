@@ -20,7 +20,7 @@ Where   l =length of the suspension wire; r=radius of the wire; n=rigidity modul
 
 Substituting (2) in (1) and squaring,we get an expression for rigidity modulus for the suspension wire as,
 
-$$n=\frac{8\pi Il}{r^4T^2}...............(3)
+$$n=\frac{8\pi Il}{r^4T^2}...............(3)$$
 
 We can use the above formula directly if we calculate the moment of inertia of the disc,I as (1/2)MR<sup>2</sup>.
 
